@@ -1,0 +1,2 @@
+
+puts "salut, ça farte ?
